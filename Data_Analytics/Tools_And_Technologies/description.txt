@@ -1,0 +1,16 @@
+Data analytics tools & technologies cover programming languages (Python, R), databases (SQL),
+BI & Visualization (Tableau, Power BI), big data frameworks (Apache Spark), cloud platforms (AWS,
+Azure), and specialized software (SAS, Jupyter) for collecting, cleaning, analyzing, and 
+visualizing data to gain insights, with categories including statistical modeling, data integration, 
+and machine learning. 
+
+
+Tools & Technologies:-
+
+1.Excel (Pivot tables, formulas)
+
+2.SQL (Querying databases)
+
+3.Python / R (Pandas, NumPy, Matplotlib)
+
+4.Power BI / Tableau (Dashboards & reports)

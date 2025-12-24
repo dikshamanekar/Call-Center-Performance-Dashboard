@@ -1,0 +1,9 @@
+Data visualization uses charts, graphs and maps to present information clearly and simply.
+It turns complex data into visuals that are easy to understand. 
+With large amounts of data in every industry, visualization helps spot patterns and trends quickly, 
+leading to faster and smarter decisions.
+
+Common Types of Data Visualization:-
+1.Charts and Graphs
+2.Creating dashboards
+3.Business insights presentation
